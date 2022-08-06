@@ -6,7 +6,7 @@ Yulu zones are located at all the appropriate locations (including metro station
 
 # Business Problem
 
-Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.  
+Yulu have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.  
 The company wants to know:  
 1. Which variables are significant in predicting the demand for shared electric cycles in the Indian market? 
 2. How well those variables describe the electric cycle demands?
